@@ -1,0 +1,29 @@
+body
+{ 
+    background-size: cover;
+    
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    
+}
+#start
+{
+    font-size: 18px;
+    
+}
+#status, #number_of_object
+{
+font-size: 18px;
+}
+#stop
+{
+    height: 300px;
+    width: 300px;
+    border-color: white;
+    box-shadow: 5px;
+}
+
